@@ -14,6 +14,15 @@ Prepare a professional AI-assisted development environment.
 - Cursor
 - GitHub
 
+## Getting Started
+
+1. Install the tools listed above (Node.js LTS from [nodejs.org](https://nodejs.org)).
+2. Verify your setup:
+
+   ```bash
+   node --version   # v20.x or later
+   git --version
+
 ## Deliverables
 
 - Environment setup
